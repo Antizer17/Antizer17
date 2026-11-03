@@ -17,3 +17,9 @@ A fresh CS graduate from BRAC University specialized in full-stack software deve
 
 ---
 
+### 🔭 What I'm up to
+* **🔭 I’m currently building:** Full-stack applications and scalable backend architectures.
+* **👯 I’m looking to collaborate on:** Open-source backend systems, applied AI tools, and SAAS products.
+* **💬 Ask me about:** Node.js, Express, Next.js, database design, RAG, and AI agents.
+* **📫 How to reach me:** [LinkedIn](https://www.linkedin.com/in/ahmad-sameer-4a6a8b1b8)
+
