@@ -17,7 +17,3 @@ A fresh CS graduate from BRAC University specialized in full-stack software deve
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antizer17&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
