@@ -6,7 +6,7 @@ A fresh CS graduate from BRAC University specialized in full-stack software deve
 
 ### 🛠️ Tech Stack
 * **Languages & Core:** JavaScript, TypeScript, Python, SQL
-* **Frontend:** React, Next.js, React Native / Expo
+* **Frontend:** HTML, CSS, React, Next.js, React Native / Expo
 * **Backend & APIs:** Node.js, Express, REST APIs, PostgreSQL, MongoDB, Docker, Git
 
 ---
